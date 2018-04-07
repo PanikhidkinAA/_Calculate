@@ -10,6 +10,7 @@ public class base {
         /*Вводим число "а"*/
         System.out.println("Введите число b: ");
         double b = scanner.nextDouble();
+        /*Вводим число "b"*/
         System.out.println("Выберите операцию(1 - сложение, 2 - вычитание, 3 - умножение, 4 - деление): ");
         double c = 0;
         /*Выбор операции с числами*/
